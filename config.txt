@@ -1,23 +1,30 @@
 # [/1688.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
 # [/qq.com/]https://doh.pub/dns-query tls://dot.pub
 # [/360.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
-# 阿里系
-[/alicdn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/alipay.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/alipayobjects.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/alibaba.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/aliyuncs.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/aliyun.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/taobao.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uc.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/quark.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/amap.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-# 腾讯系  
-[/qq.com/]https://doh.pub/dns-query tls://dot.pub
-[/qq.com.cn/]https://doh.pub/dns-query tls://dot.pub
-[/tencent.com/]https://doh.pub/dns-query tls://dot.pub
-[/apd-pcdnwxlogin.teg.tencent-cloud.net/]https://doh.pub/dns-query tls://dot.pub
-# 其它
+
+tls://dns.google
+https://dns.google/dns-query
+tls://one.one.one.one
+tls://1.1.1.1
+https://cloudflare-dns.com/dns-query
+https://1.1.1.1/dns-query
+tls://dns.quad9.net
+https://dns.quad9.net/dns-query
+https://doh.opendns.com/dns-query
+[/alicdn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/alipay.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/alipayobjects.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/alibaba.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/aliyuncs.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/aliyun.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/taobao.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/uc.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/quark.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/amap.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com https://doh.360.cn/dns-query tls://dot.360.cn
+[/qq.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/qq.com.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/tencent.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/tencent-cloud.net/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/douyinvod.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/xiaomi.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/xiaomi.net/]https://doh.360.cn/dns-query tls://dot.360.cn
@@ -29,13 +36,12 @@
 [/baidu.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/dianping.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/neixin.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/1251413404.vod2.myqcloud.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/myqcloud.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/sankuai.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/dpfile.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/config-p2p-other.vcloud.ks-live.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/10086.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/139.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/hcdnl.pull302.gslb.livehwc3.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/livehwc3.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/douyincdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/douyinliving.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/idouyinvod.com/]https://doh.360.cn/dns-query tls://dot.360.cn
@@ -43,47 +49,29 @@
 [/cdnhwc2.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/cdnhwc3.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ndcpp.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/ctlcdn.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/anosmcloud.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/volcgslb.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/cdnhwcoem01.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/ctlcdn.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/bdydns.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/bytedns1.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/queniubg.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/cdnbuild.net/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/glb4.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/queniubh.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ctdns.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/cdngslb.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/queniuso.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/volcfcdndvs.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/alikunlun.net/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/queniurc.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/xinqiucc.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/kuiniuca.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/volcgslb.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/qiniudns.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/kunluncan.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/queniusy.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/amemv.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/tianwenca.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/xdrtc.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/shifen.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/xdrtc.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/cdnhwcoem01.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/queniusy.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/alibabadns.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/volcgslb.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/baidu-itm.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/starrydyn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/ovscdns.net/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/qcloudcdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/bcelive.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/cdnbuild.net/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ecombdapi.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ks-live.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/jcloud-cdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/z1cdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/zhicyun.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ks-cdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/ksyuncdn.com]https://doh.360.cn/dns-query tls://dot.360.cn
+[/ksyuncdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/net.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
