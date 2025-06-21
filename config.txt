@@ -1,0 +1,38 @@
+# [/1688.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+# [/qq.com/]https://doh.pub/dns-query tls://dot.pub
+# [/360.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
+# 阿里系
+[/alicdn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/alipay.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/alipayobjects.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/alibaba.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/aliyuncs.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/aliyun.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/taobao.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/uc.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/quark.cn/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/amap.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+# 腾讯系  
+[/qq.com/]https://doh.pub/dns-query tls://dot.pub
+[/qq.com.cn/]https://doh.pub/dns-query tls://dot.pub
+[/tencent.com/]https://doh.pub/dns-query tls://dot.pub
+[/apd-pcdnwxlogin.teg.tencent-cloud.net/]https://doh.pub/dns-query tls://dot.pub
+# 其它
+[/douyinvod.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/xiaomi.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/xiaomi.net/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/miui.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/xiaohongshu.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/meituan.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/meituan.net/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/zijieapi.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/baidu.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/dianping.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/neixin.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/1251413404.vod2.myqcloud.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/sankuai.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/dpfile.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/config-p2p-other.vcloud.ks-live.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/10086.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/139.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/hcdnl.pull302.gslb.livehwc3.cn/]https://doh.360.cn/dns-query tls://dot.360.cn
