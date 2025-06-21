@@ -86,4 +86,4 @@
 [/z1cdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/zhicyun.com/]https://doh.360.cn/dns-query tls://dot.360.cn
 [/ks-cdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
-[/ksyuncdn.com/]https://doh.360.cn/dns-query tls://dot.360.cn
+[/ksyuncdn.com]https://doh.360.cn/dns-query tls://dot.360.cn
